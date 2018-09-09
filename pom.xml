@@ -11,6 +11,7 @@
   <modules>
     <module>kafka-demo</module>
     <module>spark-demo</module>
+      <module>springboot-spark-demo</module>
   </modules>
 
   <name>bigdata-demo</name>
@@ -31,6 +32,17 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-dependencies</artifactId>
+        <version>1.5.10.RELEASE</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->

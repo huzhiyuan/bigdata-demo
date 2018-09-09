@@ -7,7 +7,7 @@ import java.util.Properties;
 public class KafkaProducerDemo {
     private  final Producer<String,String> kafkaProducer;
 
-    public final static String TOPIC="topic1";
+    public final static String TOPIC="news";
 
     private KafkaProducerDemo(){
         kafkaProducer=createKafkaProducer() ;
@@ -30,7 +30,7 @@ public class KafkaProducerDemo {
     void produce(){
         for(int i=1;i<1000;i++){
             try {
-                Thread.sleep(1000);
+                Thread.sleep(200);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
