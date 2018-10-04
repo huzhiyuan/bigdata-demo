@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bigdata-demo.iml" filepath="$PROJECT_DIR$/.idea/bigdata-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-demo/hadoop-demo.iml" filepath="$PROJECT_DIR$/hadoop-demo/hadoop-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-demo/kafka-demo.iml" filepath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spark-demo/spark-demo.iml" filepath="$PROJECT_DIR$/spark-demo/spark-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-spark-demo/springboot-spark-demo.iml" filepath="$PROJECT_DIR$/springboot-spark-demo/springboot-spark-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools-demo/tools-demo.iml" filepath="$PROJECT_DIR$/tools-demo/tools-demo.iml" />
     </modules>
   </component>
 </project>

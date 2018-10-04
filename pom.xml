@@ -4,14 +4,16 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.hzy</groupId>
-  <artifactId>bigdata-demo</artifactId>
-  <packaging>pom</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <groupId>com.hzy</groupId>  <!--项目或组织的唯一标识-->
+  <artifactId>bigdata-demo</artifactId> <!--项目的通用名称-->
+  <packaging>pom</packaging>  <!--打包机制，如pom，jar，war，maven-plugin。。。-->
+  <version>1.0-SNAPSHOT</version> <!--项目的版本-->
   <modules>
     <module>kafka-demo</module>
     <module>spark-demo</module>
       <module>springboot-spark-demo</module>
+    <module>tools-demo</module>
+      <module>hadoop-demo</module>
   </modules>
 
   <name>bigdata-demo</name>
@@ -30,6 +32,14 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
+      <!--
+          scope 依赖范围
+            compile：（默认）， 在编译期间有效，同时会被打包
+            provided:  已提供范围，即编译期间有效，但是不会被打包，比如servlet，在编译的时候需要，但是运行的时候由tomcat或其他容器提供，则不再需要打包到war里面
+            runtime: 编译的时候不需要，运行的时候才需要，比如编译的时候只需要jdbc api jar运行的时候才需要jdbc驱动实现
+            test: 测试范围。 编译和运行的时候都不需要，只要在测试编译和测试运行阶段可用
+            system：系统范围，必须同时提供一个系统路径，这种方式并不推荐，还是建议使用公开的库中的依赖
+      -->
     </dependency>
   </dependencies>
   <dependencyManagement>

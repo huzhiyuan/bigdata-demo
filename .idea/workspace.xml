@@ -2,36 +2,210 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6a741c-9106-45e6-b975-5130581392d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log.1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log.2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log.3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileCopyWithProgress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemDoubleCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/URLCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/test/java/com/hzy/AppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/dependency-reduced-pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/activation-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/apache-log4j-extras-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/apacheds-i18n-2.0.0-M15.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/apacheds-kerberos-codec-2.0.0-M15.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/api-asn1-api-1.0.0-M20.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/api-util-1.0.0-M20.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/asm-3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/async-1.4.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/asynchbase-1.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/avro-1.7.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/avro-ipc-1.7.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-beanutils-1.7.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-beanutils-core-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-cli-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-codec-1.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-codec-1.8.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-collections-3.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-compress-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-configuration-1.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-dbcp-1.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-digester-1.8.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-httpclient-3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-io-2.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-io-2.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-jexl-2.1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-lang-2.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-lang-2.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-logging-1.1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-logging-1.1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-math3-3.1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-net-3.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-pool-1.5.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-client-2.6.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-client-2.7.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-framework-2.6.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-framework-2.7.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-recipes-2.6.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-recipes-2.7.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/derby-10.11.1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-avro-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-dataset-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-file-channel-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-hdfs-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-hive-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-http-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-irc-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-jdbc-channel-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-jms-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-kafka-channel-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-kafka-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-auth-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-configuration-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-core-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-elasticsearch-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-embedded-agent-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-hbase-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-kafka-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-log4jappender-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-morphline-solr-sink-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-node-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-sdk-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-scribe-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-spillable-memory-channel-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-taildir-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-thrift-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-tools-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-twitter-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/geronimo-jms_1.1_spec-1.1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/gson-2.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/gson-2.2.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/guava-11.0.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-annotations-2.7.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-auth-2.7.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-common-2.7.6-tests.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-common-2.7.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-hdfs-2.7.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-nfs-2.7.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hamcrest-core-1.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/htrace-core-3.1.0-incubating.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpclient-4.2.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpclient-4.2.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpcore-4.2.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpcore-4.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/irclib-1.10.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-annotations-2.8.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-core-2.8.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-core-asl-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-core-asl-1.9.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-databind-2.8.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-jaxrs-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-mapper-asl-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-mapper-asl-1.9.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-xc-1.9.13.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/java-xmlbuilder-0.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jaxb-api-2.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jaxb-impl-2.2.3-1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jersey-core-1.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jersey-json-1.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jersey-server-1.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jets3t-0.9.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jettison-1.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jetty-6.1.26.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jetty-sslengine-6.1.26.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jetty-util-6.1.26.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/joda-time-2.9.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jopt-simple-3.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsch-0.1.54.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsp-api-2.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsr305-1.3.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsr305-3.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/junit-4.11.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kafka-clients-0.9.0.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kafka_2.10-0.9.0.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-data-core-1.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-data-hbase-1.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-data-hive-1.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-hadoop-compatibility-1.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/libthrift-0.9.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/log4j-1.2.17.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/lz4-1.2.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/mapdb-0.9.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/metrics-core-2.2.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/mina-core-2.0.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/mockito-all-1.8.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/netty-3.6.2.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/netty-3.9.4.Final.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/opencsv-2.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/paranamer-2.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-avro-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-column-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-common-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-encoding-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-format-2.0.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-generator-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-hadoop-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-hive-bundle-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-jackson-1.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/protobuf-java-2.5.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/scala-library-2.10.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/serializer-2.7.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/servlet-api-2.5-20110124.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/servlet-api-2.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-api-1.6.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-api-1.7.10.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-log4j12-1.6.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-log4j12-1.7.10.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/snappy-java-1.0.4.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/snappy-java-1.1.4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/stax-api-1.0-2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/twitter4j-core-3.0.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/twitter4j-media-support-3.0.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/twitter4j-stream-3.0.3.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/velocity-1.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xalan-2.7.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xercesImpl-2.9.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xml-apis-1.3.04.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xmlenc-0.52.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xz-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/zkclient-0.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/zookeeper-3.4.6.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/LogHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/test/java/com/hzy/AppTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log.1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log.2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log.3" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506800000.bk.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506800000.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506810000.bk.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506810000.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506820000.bk.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506820000.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506830000.bk.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506830000.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506840000.bk.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/.checkpoint-1536506840000.crc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506800000" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506800000.bk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506810000" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506810000.bk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506820000" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506820000.bk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506830000" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506830000.bk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506840000" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/checkpoint-1536506840000.bk" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1536506780193-1536506840193" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkpoint/receivedBlockMetadata/log-1536506840221-1536506900221" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" afterPath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
+      <change beforePath="$PROJECT_DIR$/kafka-demo/pom.xml" afterPath="$PROJECT_DIR$/kafka-demo/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" />
+      <change beforePath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java" />
+      <change beforePath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaConsumerDemo.class" afterPath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaConsumerDemo.class" />
+      <change beforePath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaProducerDemo.class" afterPath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaProducerDemo.class" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/springboot-spark-demo/pom.xml" afterPath="$PROJECT_DIR$/springboot-spark-demo/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spark-demo/target/" />
     <ignored path="$PROJECT_DIR$/kafka-demo/target/" />
     <ignored path="$PROJECT_DIR$/springboot-spark-demo/target/" />
+    <ignored path="$PROJECT_DIR$/tools-demo/target/" />
+    <ignored path="$PROJECT_DIR$/hadoop-demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,119 +215,124 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/resources/application.properties">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SparkConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/config/SparkConfig.java">
+      <file leaf-file-name="LogHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/LogHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="270">
+              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1783#1784#0" expanded="true" />
-                <element signature="e#1837#1838#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BroadcastHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/helper/BroadcastHelper.java">
+      <file leaf-file-name="LogAppender.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-              <folding>
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KafkaSparkStreamExecutor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/task/KafkaSparkStreamExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1570#1571#0" expanded="true" />
-                <element signature="e#1603#1604#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="121" column="58" lean-forward="false" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/tools-demo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+            <state relative-caret-position="1674">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/controller/TestController.java">
+      <file leaf-file-name="KafkaConsumerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            <state relative-caret-position="119">
+              <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2466#2467#0" expanded="true" />
+                <element signature="e#2515#2516#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/App.java">
+      <file leaf-file-name="LogAnalysis.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogManager.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/logging/LogManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1292" column="0" lean-forward="false" selection-start-line="1292" selection-start-column="0" selection-end-line="1292" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListenerConfig.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/config/ListenerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="-1821">
+              <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#3942#3943#0" expanded="true" />
+                <element signature="e#3990#3991#0" expanded="true" />
+                <element signature="e#4281#4290#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#804#805#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Interceptor.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flume/flume-ng-core/1.8.0/flume-ng-core-1.8.0.jar!/org/apache/flume/interceptor/Interceptor.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <marker date="1538550712289" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1538550712289" expanded="false" signature="152:366" ph="..." />
+                <marker date="1538550712289" expanded="true" signature="368:383" ph="@{...}" />
+                <marker date="1538550712289" expanded="true" signature="588:624" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HdfsHeaders.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="48" column="41" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,7 +357,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kafka-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spark-demo/src/main/java/com/hzy/WordCount.java" />
         <option value="$PROJECT_DIR$/spark-demo/pom.xml" />
         <option value="$PROJECT_DIR$/spark-demo/src/main/java/com/hzy/KafkaSparkDemo.java" />
@@ -187,15 +365,30 @@
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/App.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/listener/ApplicationStartup.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/config/ListenerConfig.java" />
-        <option value="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/config/SparkConfig.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/helper/RedisHelper.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/task/KafkaSparkStreamExecutor.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/helper/BroadcastHelper.java" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-spark-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/URLCat.java" />
+        <option value="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemCat.java" />
+        <option value="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemDoubleCat.java" />
+        <option value="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileCopyWithProgress.java" />
+        <option value="$PROJECT_DIR$/hadoop-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/LogHelper.java" />
+        <option value="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java" />
+        <option value="$PROJECT_DIR$/kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/tools-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -218,13 +411,22 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springboot-spark-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tools-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="tools-demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="616" />
-    <option name="y" value="386" />
+    <option name="x" value="589" />
+    <option name="y" value="-11" />
     <option name="width" value="859" />
     <option name="height" value="448" />
   </component>
@@ -278,6 +480,11 @@
             <id>Threading issuesJava</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -299,6 +506,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,112 +519,35 @@
             <path>
               <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="tools-demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="kafka-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hzy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="spark-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hzy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot-spark-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="warn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-spark-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tools-demo" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hzy.flume" />
+      <recent name="com.hzy" />
       <recent name="com.hzy.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\bigdata\bigdata-demo\tools-demo\flume-hdfs-lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -429,7 +562,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.LogHelper">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -513,14 +646,14 @@
       <module name="spark-demo" />
       <envs />
     </configuration>
-    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LogHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.hzy.*" />
+          <option name="PATTERN" value="com.hzy.log.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hzy.WordCount" />
+      <option name="MAIN_CLASS_NAME" value="com.hzy.log.LogHelper" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -529,7 +662,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spark-demo" />
+      <module name="tools-demo" />
       <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -607,19 +740,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.WordCount" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KafkaSparkDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.App" />
+      <item index="0" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KafkaSparkDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.App" />
+      <item index="4" class="java.lang.String" itemvalue="Application.LogHelper" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.App" />
-        <item index="1" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.KafkaSparkDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.WordCount" />
+        <item index="0" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LogHelper" />
+        <item index="2" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.App" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KafkaSparkDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -644,28 +777,28 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4409534" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123667374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35211268" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07942431" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16251354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5406284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35181236" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34127843" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16901408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2567714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -675,195 +808,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/config/SparkConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1783#1784#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/listener/ApplicationStartListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="86" lean-forward="false" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/helper/RedisHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#662#663#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/helper/BroadcastHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/task/KafkaSparkStreamExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1570#1571#0" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/config/ListenerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/logging/LogManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34884">
-          <caret line="1292" column="0" lean-forward="false" selection-start-line="1292" selection-start-column="0" selection-end-line="1292" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-demo/src/main/java/com/hzy/KafkaSparkDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-demo/src/main/java/com/hzy/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="151" column="16" lean-forward="false" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0.jar!/org/apache/spark/api/java/AbstractJavaRDDLike.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1675">
-          <caret line="75" column="40" lean-forward="false" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0.jar!/org/apache/spark/api/java/function/Function2.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="674" column="47" lean-forward="false" selection-start-line="674" selection-start-column="37" selection-end-line="674" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/Layout.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="263" column="0" lean-forward="false" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="55" column="36" lean-forward="false" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.11/2.0.0/spark-core_2.11-2.0.0.jar!/org/apache/spark/internal/Logging$class.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3807">
-          <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0.jar!/org/apache/spark/streaming/Seconds.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -913,14 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.2/spark-core_2.10-1.6.2.jar!/org/apache/spark/api/java/JavaSparkContext.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -944,22 +885,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spark-demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="34" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0.jar!/org/apache/spark/streaming/api/java/JavaStreamingContext.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -971,9 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="16" column="86" lean-forward="false" selection-start-line="16" selection-start-column="86" selection-end-line="16" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -981,10 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-          <folding>
-            <element signature="e#629#630#0" expanded="false" />
-            <element signature="e#662#663#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -992,11 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1783#1784#0" expanded="true" />
-            <element signature="e#1837#1838#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1005,9 +918,9 @@
         <state relative-caret-position="216">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+            <element signature="e#360#361#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1017,8 +930,8 @@
         <state relative-caret-position="567">
           <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
           <folding>
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="false" />
+            <element signature="e#843#844#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1036,14 +949,14 @@
         <state relative-caret-position="324">
           <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/logging/LogManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
+        <state relative-caret-position="33453">
           <caret line="1292" column="0" lean-forward="false" selection-start-line="1292" selection-start-column="0" selection-end-line="1292" selection-end-column="0" />
           <folding />
         </state>
@@ -1051,21 +964,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springboot-spark-demo/src/main/java/com/hzy/task/KafkaSparkStreamExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
+        <state relative-caret-position="1701">
           <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1570#1571#0" expanded="true" />
-            <element signature="e#1603#1604#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1570#1571#0" expanded="false" />
+            <element signature="e#1603#1604#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="81" column="17" lean-forward="false" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1077,10 +982,449 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="40" column="60" lean-forward="false" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="139" column="19" lean-forward="false" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spark-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-327">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/URLCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="21" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/io/IOUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <marker date="1538476206536" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1538476206536" expanded="false" signature="144:449" ph="..." />
+            <marker date="1538476206536" expanded="true" signature="495:502" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="619:810" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="912:1318" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="1426:1509" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="1632:1716" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="1848:2556" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="2674:2924" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="3024:3302" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="3422:3768" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="3848:4069" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="4136:4625" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="4679:4690" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="4717:4723" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="4773:4940" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="5004:5208" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="5040:5051" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="5126:5137" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="5191:5202" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemDoubleCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/util/Progressable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1538476206536" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/1.2.1/hadoop-core-1.2.1.jar!/org/apache/hadoop/fs/FileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="247" column="53" lean-forward="false" selection-start-line="247" selection-start-column="53" selection-end-line="247" selection-end-column="53" />
+          <folding>
+            <marker date="1538476206536" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1538476206536" expanded="false" signature="144:1277" ph="..." />
+            <marker date="1538476206536" expanded="false" signature="1992:2066" ph="accept(file) → { " />
+            <marker date="1538476206536" expanded="false" signature="2078:2094" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="2207:2278" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="2408:2840" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="2656:2775" ph="run() → { " />
+            <marker date="1538476206536" expanded="false" signature="2808:2832" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="2914:2968" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="3026:3110" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="3177:3188" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="3232:3238" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="3308:3319" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="3365:3371" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="3422:3433" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="3457:3463" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="3541:3624" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="3696:3707" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="3777:3783" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="3819:3830" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="3839:3845" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="3891:3984" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="3990:4008" ph="/**...*/" />
+            <marker date="1538476206536" expanded="false" signature="4036:4047" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="4079:4085" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="4091:4109" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="4200:4260" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="4309:4709" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="4793:4865" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="4948:5644" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="5699:5867" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="5952:5988" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="6031:6109" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="6225:6346" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="6450:6564" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="6592:6603" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="6630:6636" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="6678:7947" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="8056:8612" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="8760:8848" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="8914:8958" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="9043:9202" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="9291:9455" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="9540:9677" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="9785:9932" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="10033:10152" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="10276:10405" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="10541:10646" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="10805:10927" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="11096:11114" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="11300:11434" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="11440:11458" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="11669:11780" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="11842:12052" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="12118:12228" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="12310:12380" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="12554:12702" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="12708:12726" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="12804:12868" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="12952:12980" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="13064:13082" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="13306:13570" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="13613:14081" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="14136:14290" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="14296:14314" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="14389:14543" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="14598:14753" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="14759:14777" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="14847:14901" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="14974:15745" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="15928:16218" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="16301:16488" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="16558:16620" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="16709:16967" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="17041:17109" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="17202:18094" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="18196:20298" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="20421:21168" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="21222:21233" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="21273:21279" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="21316:21414" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="21490:21518" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="21680:21745" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="21906:21962" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="22040:22102" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="22177:22232" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="22323:22386" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="22499:22632" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="22742:22874" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="22947:23001" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="23074:23127" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="23216:23312" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="23404:23440" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="23535:23602" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="23647:23791" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="23838:24149" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="24155:24173" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="24246:24306" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="24312:24330" ph="/**...*/" />
+            <marker date="1538476206536" expanded="false" signature="24384:24395" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="24459:24465" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="24510:24521" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="24555:24561" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="24567:24585" ph="/**...*/" />
+            <marker date="1538476206536" expanded="false" signature="24642:24653" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="24662:24668" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="24719:24730" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="24766:24772" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="24918:24946" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="25006:25013" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="25087:25578" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="25662:25669" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="25758:25765" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="25843:25850" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="25947:26377" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="26383:26401" ph="/**...*/" />
+            <marker date="1538476206536" expanded="true" signature="26484:26805" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="26885:26948" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="27065:27326" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="27382:27591" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="27666:27980" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="28023:29934" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="28409:28424" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="28445:28455" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="28510:28525" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="28560:28570" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="28628:28643" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="28681:28691" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="28740:28755" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="28785:28795" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="28849:28864" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="28899:28909" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="28959:28974" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29005:29015" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="29051:29066" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29094:29104" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="29143:29158" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29189:29199" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="29232:29247" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29299:29309" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="29347:29362" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29393:29403" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="29437:29452" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29479:29489" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="29524:29733" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="29763:29849" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="29884:29899" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="29918:29928" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="29959:35042" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="30059:30070" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="30143:31140" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="31216:31633" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="31691:32449" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="32531:33557" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="33577:33592" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="33615:33625" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="33652:35036" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="33832:34106" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="34141:34160" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="34231:34245" ph=" }" />
+            <marker date="1538476206536" expanded="false" signature="34301:34320" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="34362:34376" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="34424:34876" ph="{...}" />
+            <marker date="1538476206536" expanded="false" signature="34914:34933" ph=" { " />
+            <marker date="1538476206536" expanded="false" signature="35012:35026" ph=" }" />
+            <marker date="1538476206536" expanded="true" signature="35100:35409" ph="{...}" />
+            <marker date="1538476206536" expanded="true" signature="35136:35147" ph="{}" />
+            <marker date="1538476206536" expanded="true" signature="35188:35403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileCopyWithProgress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#813#814#0" expanded="false" />
+            <element signature="e#873#874#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="57" column="67" lean-forward="false" selection-start-line="57" selection-start-column="67" selection-end-line="57" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/springboot-spark-demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="121" column="58" lean-forward="false" selection-start-line="121" selection-start-column="58" selection-end-line="121" selection-end-column="58" />
+        <state relative-caret-position="456">
+          <caret line="127" column="21" lean-forward="false" selection-start-line="108" selection-start-column="12" selection-end-line="127" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="102" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flume/flume-ng-sdk/1.8.0/flume-ng-sdk-1.8.0.jar!/org/apache/flume/Event.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <marker date="1538550713598" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error/error.log.1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warn/warn.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1551">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warn/warn.log.2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2846">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/LogHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#2466#2467#0" expanded="true" />
+            <element signature="e#2515#2516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#804#805#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flume/flume-ng-core/1.8.0/flume-ng-core-1.8.0.jar!/org/apache/flume/interceptor/Interceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1538550712289" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1538550712289" expanded="false" signature="152:366" ph="..." />
+            <marker date="1538550712289" expanded="true" signature="368:383" ph="@{...}" />
+            <marker date="1538550712289" expanded="true" signature="588:624" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1821">
+          <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3942#3943#0" expanded="true" />
+            <element signature="e#3990#3991#0" expanded="true" />
+            <element signature="e#4281#4290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="48" column="41" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
           <folding />
         </state>
       </provider>
@@ -1175,7 +1519,7 @@
     </states>
   </component>
   <component name="mavenExecuteGoalHistory">
-    <option value="C:\bigdata\bigdata-demo\springboot-spark-demo" />
+    <option value="C:\bigdata\bigdata-demo\tools-demo" />
     <option value="clean package" />
     <option value="assembly:assembly" />
   </component>

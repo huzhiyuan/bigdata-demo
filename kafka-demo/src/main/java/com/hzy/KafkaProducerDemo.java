@@ -7,14 +7,14 @@ import java.util.Properties;
 public class KafkaProducerDemo {
     private  final Producer<String,String> kafkaProducer;
 
-    public final static String TOPIC="news";
+    public final static String TOPIC="logs-test";
 
     private KafkaProducerDemo(){
         kafkaProducer=createKafkaProducer() ;
     }
     private Producer<String,String> createKafkaProducer(){
         Properties props = new Properties();
-        props.put("bootstrap.servers", "127.0.0.1:9092");
+        props.put("bootstrap.servers", "192.168.150.126:9092,192.168.150.126:9093,192.168.150.126:9094");
         props.put("acks", "all");
         props.put("retries", 0);
         props.put("batch.size", 16384);
@@ -30,7 +30,7 @@ public class KafkaProducerDemo {
     void produce(){
         for(int i=1;i<1000;i++){
             try {
-                Thread.sleep(200);
+                Thread.sleep(2000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
