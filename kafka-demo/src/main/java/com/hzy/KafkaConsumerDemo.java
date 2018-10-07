@@ -30,26 +30,26 @@ public class KafkaConsumerDemo {
             for (ConsumerRecord<String, String> record : records){
                 System.out.println("================================================================");
                 System.out.printf("offset = %d, key = %s, value = %s%n", record.offset(), record.key(), record.value());
-                JSONObject jsonObject = JSONObject.parseObject(record.value());
-                String logType = jsonObject.getString("logType");
-                String body = jsonObject.getString("body");
-                if("warn".equals(logType)){
-                    if(body.toLowerCase().contains("error")){
-                        System.out.println(logType);
-                        System.out.println(body);
-                    }else{
-                        System.out.println("ok");
-                    }
-                }else if("error".equals(logType)){
-                    if(body.toLowerCase().contains("warn")){
-                        System.out.println(logType);
-                        System.out.println(body);
-                    }else{
-                        System.out.println("ok");
-                    }
-                }else{
-                    System.out.println("unknow type");
-                }
+//                JSONObject jsonObject = JSONObject.parseObject(record.value());
+//                String logType = jsonObject.getString("logType");
+//                String body = jsonObject.getString("body");
+//                if("warn".equals(logType)){
+//                    if(body.toLowerCase().contains("error")){
+//                        System.out.println(logType);
+//                        System.out.println(body);
+//                    }else{
+//                        System.out.println("ok");
+//                    }
+//                }else if("error".equals(logType)){
+//                    if(body.toLowerCase().contains("warn")){
+//                        System.out.println(logType);
+//                        System.out.println(body);
+//                    }else{
+//                        System.out.println("ok");
+//                    }
+//                }else{
+//                    System.out.println("unknow type");
+//                }
             }
         }
     }

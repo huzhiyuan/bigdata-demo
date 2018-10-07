@@ -2,203 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e6a741c-9106-45e6-b975-5130581392d1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log.1" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log.2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/error/error.log.3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileCopyWithProgress.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemCat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/FileSystemDoubleCat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/main/java/com/hzy/URLCat.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hadoop-demo/src/test/java/com/hzy/AppTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/dependency-reduced-pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/activation-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/apache-log4j-extras-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/apacheds-i18n-2.0.0-M15.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/apacheds-kerberos-codec-2.0.0-M15.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/api-asn1-api-1.0.0-M20.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/api-util-1.0.0-M20.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/asm-3.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/async-1.4.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/asynchbase-1.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/avro-1.7.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/avro-ipc-1.7.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-beanutils-1.7.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-beanutils-core-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-cli-1.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-codec-1.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-codec-1.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-collections-3.2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-compress-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-configuration-1.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-dbcp-1.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-digester-1.8.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-httpclient-3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-io-2.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-io-2.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-jexl-2.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-lang-2.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-lang-2.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-logging-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-logging-1.1.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-math3-3.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-net-3.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/commons-pool-1.5.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-client-2.6.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-client-2.7.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-framework-2.6.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-framework-2.7.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-recipes-2.6.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/curator-recipes-2.7.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/derby-10.11.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-avro-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-dataset-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-file-channel-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-hdfs-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-hive-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-http-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-irc-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-jdbc-channel-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-jms-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-kafka-channel-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-kafka-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-auth-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-configuration-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-core-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-elasticsearch-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-embedded-agent-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-hbase-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-kafka-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-log4jappender-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-morphline-solr-sink-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-node-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-ng-sdk-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-scribe-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-spillable-memory-channel-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-taildir-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-thrift-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-tools-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/flume-twitter-source-1.8.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/geronimo-jms_1.1_spec-1.1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/gson-2.2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/gson-2.2.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/guava-11.0.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-annotations-2.7.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-auth-2.7.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-common-2.7.6-tests.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-common-2.7.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-hdfs-2.7.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hadoop-nfs-2.7.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/hamcrest-core-1.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/htrace-core-3.1.0-incubating.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpclient-4.2.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpclient-4.2.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpcore-4.2.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/httpcore-4.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/irclib-1.10.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-annotations-2.8.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-core-2.8.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-core-asl-1.9.13.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-core-asl-1.9.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-databind-2.8.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-jaxrs-1.9.13.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-mapper-asl-1.9.13.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-mapper-asl-1.9.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jackson-xc-1.9.13.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/java-xmlbuilder-0.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jaxb-api-2.2.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jaxb-impl-2.2.3-1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jersey-core-1.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jersey-json-1.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jersey-server-1.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jets3t-0.9.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jettison-1.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jetty-6.1.26.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jetty-sslengine-6.1.26.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jetty-util-6.1.26.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/joda-time-2.9.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jopt-simple-3.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsch-0.1.54.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsp-api-2.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsr305-1.3.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/jsr305-3.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/junit-4.11.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kafka-clients-0.9.0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kafka_2.10-0.9.0.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-data-core-1.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-data-hbase-1.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-data-hive-1.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/kite-hadoop-compatibility-1.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/libthrift-0.9.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/log4j-1.2.17.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/lz4-1.2.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/mapdb-0.9.9.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/metrics-core-2.2.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/mina-core-2.0.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/mockito-all-1.8.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/netty-3.6.2.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/netty-3.9.4.Final.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/opencsv-2.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/paranamer-2.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-avro-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-column-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-common-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-encoding-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-format-2.0.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-generator-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-hadoop-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-hive-bundle-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/parquet-jackson-1.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/protobuf-java-2.5.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/scala-library-2.10.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/serializer-2.7.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/servlet-api-2.5-20110124.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/servlet-api-2.5.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-api-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-api-1.7.10.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-log4j12-1.6.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/slf4j-log4j12-1.7.10.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/snappy-java-1.0.4.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/snappy-java-1.1.4.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/stax-api-1.0-2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/twitter4j-core-3.0.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/twitter4j-media-support-3.0.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/twitter4j-stream-3.0.3.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/velocity-1.7.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xalan-2.7.2.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xercesImpl-2.9.1.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xml-apis-1.3.04.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xmlenc-0.52.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/xz-1.0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/zkclient-0.7.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-hdfs-lib/zookeeper-3.4.6.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/App.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/LogHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/test/java/com/hzy/AppTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log.1" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log.2" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/warn/warn.log.3" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/flume-custom/flume-taildir-source-1.8.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/guava/PreconditionsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tools-demo/src/main/resources/kafka_to_hdfs.properties" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" afterPath="$PROJECT_DIR$/kafka-demo/kafka-demo.iml" />
-      <change beforePath="$PROJECT_DIR$/kafka-demo/pom.xml" afterPath="$PROJECT_DIR$/kafka-demo/pom.xml" />
       <change beforePath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" />
-      <change beforePath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java" afterPath="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaProducerDemo.java" />
       <change beforePath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaConsumerDemo.class" afterPath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaConsumerDemo.class" />
-      <change beforePath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaProducerDemo.class" afterPath="$PROJECT_DIR$/kafka-demo/target/classes/com/hzy/KafkaProducerDemo.class" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spark-demo/target/" />
@@ -215,46 +24,267 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties">
+      <file leaf-file-name="PreconditionsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/guava/PreconditionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="297">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/LogHelper.java">
+      <file leaf-file-name="Preconditions.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/base/Preconditions.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1496027779165" expanded="false" signature="146:224" ph="..." />
+                <marker date="1496027779165" expanded="true" signature="304:311" ph="{}" />
+                <marker date="1496027779165" expanded="true" signature="370:464" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="554:676" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="812:952" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1008:1099" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1186:1305" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1438:1575" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1627:1770" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1853:2024" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="2153:2342" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="2404:2415" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="2462:2468" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="2554:2741" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="2819:3189" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="3252:3263" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="3311:3317" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="3404:3593" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="3672:4049" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4125:4283" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4360:4667" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4737:5688" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Beta.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/annotations/Beta.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1496027779165" expanded="false" signature="153:346" ph="..." />
+                <marker date="1496027779165" expanded="true" signature="348:529" ph="@{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogAppender.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java">
+      <file leaf-file-name="BiMap.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/BiMap.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="432">
+              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1496027779165" expanded="false" signature="149:271" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/pom.xml">
+      <file leaf-file-name="MapConstraints.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/MapConstraints.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1674">
-              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="225">
+              <caret line="561" column="17" lean-forward="false" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
+              <folding>
+                <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1496027779165" expanded="false" signature="149:584" ph="..." />
+                <marker date="1496027779165" expanded="true" signature="586:606" ph="@{...}" />
+                <marker date="1496027779165" expanded="true" signature="672:679" ph="{}" />
+                <marker date="1496027779165" expanded="false" signature="738:749" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="801:807" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="922:996" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1131:1215" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1362:1450" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1594:1681" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="1843:1936" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="2072:2486" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="2211:2479" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="2257:2276" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="2289:2303" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="2344:2469" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="2651:3307" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="2802:3300" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="2860:2879" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="2892:2906" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="2952:3290" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="3055:3129" ph="checkElement(value) → {" />
+                <marker date="1496027779165" expanded="false" signature="3251:3274" ph="}" />
+                <marker date="1496027779165" expanded="true" signature="3474:3561" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="3713:3882" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4021:4104" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4225:4314" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4453:4702" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="4832:5123" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="5272:5963" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="5393:5445" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="5485:5500" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="5533:5543" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="5594:5609" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="5648:5658" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="5739:5814" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="5871:5957" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="6097:6693" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="6206:6258" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="6292:6307" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="6334:6344" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="6387:6402" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="6430:6440" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="6485:6500" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="6533:6543" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="6618:6687" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="6829:7337" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="6940:6992" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="7027:7042" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="7070:7080" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="7126:7141" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="7175:7185" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="7261:7331" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="7433:9422" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="7684:7773" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="7832:7847" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="7867:7877" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="7939:8457" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="8098:8446" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="8154:8303" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="8375:8398" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="8414:8432" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="8492:8507" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="8537:8547" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="8590:8605" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="8640:8650" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="8693:8708" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="8758:8768" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="8821:8836" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="8871:8881" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="8937:8952" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="8987:8997" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="9028:9043" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="9074:9084" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="9125:9140" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="9188:9198" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="9249:9264" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="9297:9307" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="9358:9373" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="9406:9416" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="9543:9909" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="9647:9698" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="9754:9769" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="9806:9816" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="9847:9862" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="9893:9903" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="10003:11683" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="10223:10312" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="10366:10381" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="10401:10411" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="10461:10921" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="10596:10910" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="10640:10779" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="10839:10862" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="10878:10896" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="10956:10971" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11001:11011" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="11054:11069" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11104:11114" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="11157:11172" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11222:11232" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="11285:11300" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11335:11345" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="11386:11401" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11449:11459" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="11510:11525" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11558:11568" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="11619:11634" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="11667:11677" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="11783:13474" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="11995:12082" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="12138:12153" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="12174:12184" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="12236:12748" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="12376:12737" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="12418:12441" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="12467:12485" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="12530:12553" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="12608:12626" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="12664:12687" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="12705:12723" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="12783:12798" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="12828:12838" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="12881:12896" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="12931:12941" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="12984:12999" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="13031:13041" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="13094:13109" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="13144:13154" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="13195:13210" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="13240:13250" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="13301:13316" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="13349:13359" ph=" }" />
+                <marker date="1496027779165" expanded="false" signature="13410:13425" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="13458:13468" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="13584:17813" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="13894:14066" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="14111:14126" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="14147:14157" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="14204:16204" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="14460:16145" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="14638:14665" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="14686:14708" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="14777:15145" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="15204:15551" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="15615:15985" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="16045:16072" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="16105:16127" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="16255:16518" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="16566:16890" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="16659:16729" ph="checkElement(value) → {" />
+                <marker date="1496027779165" expanded="false" signature="16859:16878" ph="}" />
+                <marker date="1496027779165" expanded="true" signature="16935:17051" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="17120:17235" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="17312:17603" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="17685:17807" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="17895:18261" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="18041:18137" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="18188:18203" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="18245:18255" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="18378:19287" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="18545:18633" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="18675:18690" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="18721:18731" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="18775:18898" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="18937:19192" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="19224:19239" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="19271:19281" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="19355:20481" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="19606:19773" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="19813:19828" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="19849:19859" ph=" }" />
+                <marker date="1496027779165" expanded="true" signature="19904:20164" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="20203:20319" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="20383:20475" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="20569:20888" ph="{...}" />
+                <marker date="1496027779165" expanded="true" signature="20629:20640" ph="{}" />
+                <marker date="1496027779165" expanded="true" signature="20702:20805" ph="{...}" />
+                <marker date="1496027779165" expanded="false" signature="20839:20854" ph=" { " />
+                <marker date="1496027779165" expanded="false" signature="20872:20882" ph=" }" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -262,76 +292,18 @@
       <file leaf-file-name="KafkaConsumerDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-              <folding>
-                <element signature="e#2466#2467#0" expanded="true" />
-                <element signature="e#2515#2516#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogAnalysis.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1821">
-              <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3942#3943#0" expanded="true" />
-                <element signature="e#3990#3991#0" expanded="true" />
-                <element signature="e#4281#4290#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestInterceptor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="e#709#710#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#831#832#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Interceptor.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flume/flume-ng-core/1.8.0/flume-ng-core-1.8.0.jar!/org/apache/flume/interceptor/Interceptor.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-              <folding>
-                <marker date="1538550712289" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1538550712289" expanded="false" signature="152:366" ph="..." />
-                <marker date="1538550712289" expanded="true" signature="368:383" ph="@{...}" />
-                <marker date="1538550712289" expanded="true" signature="588:624" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HdfsHeaders.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="48" column="41" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="644">
+              <caret line="51" column="19" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="51" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="kafka_to_hdfs.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools-demo/src/main/resources/kafka_to_hdfs.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -384,11 +356,13 @@
         <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java" />
         <option value="$PROJECT_DIR$/tools-demo/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/tools-demo/pom.xml" />
-        <option value="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" />
         <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/LogAnalysis.java" />
         <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/TestInterceptor.java" />
         <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/flume/HdfsHeaders.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/guava/GuavaTest.java" />
+        <option value="$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/guava/PreconditionsTest.java" />
+        <option value="$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java" />
       </list>
     </option>
   </component>
@@ -425,10 +399,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="589" />
-    <option name="y" value="-11" />
-    <option name="width" value="859" />
-    <option name="height" value="448" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-9" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -524,7 +498,80 @@
             <path>
               <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="warn" type="462c0819:PsiDirectoryNode" />
+              <item name="tools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="tools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="tools-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="annotations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bigdata-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:18.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-18.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="collect" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -538,15 +585,19 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tools-demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sources/apache-flume-1.8.0-src/pom.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\bigdata\bigdata-demo\tools-demo\flume-custom" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.hzy.flume" />
       <recent name="com.hzy" />
       <recent name="com.hzy.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\bigdata\bigdata-demo\tools-demo\src\main\resources" />
       <recent name="C:\bigdata\bigdata-demo\tools-demo\flume-hdfs-lib" />
     </key>
   </component>
@@ -562,7 +613,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LogHelper">
+  <component name="RunManager" selected="Application.KafkaConsumerDemo">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -627,25 +678,6 @@
       <module name="kafka-demo" />
       <envs />
     </configuration>
-    <configuration name="KafkaSparkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.hzy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.hzy.KafkaSparkDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="spark-demo" />
-      <envs />
-    </configuration>
     <configuration name="LogHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -654,6 +686,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.hzy.log.LogHelper" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="tools-demo" />
+      <envs />
+    </configuration>
+    <configuration name="PreconditionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.hzy.guava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.hzy.guava.PreconditionsTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -741,18 +792,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
-      <item index="1" class="java.lang.String" itemvalue="Application.KafkaSparkDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.App" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LogHelper" />
+      <item index="1" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.App" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LogHelper" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PreconditionsTest" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.KafkaConsumerDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LogHelper" />
-        <item index="2" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.App" />
-        <item index="4" class="java.lang.String" itemvalue="Application.KafkaSparkDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PreconditionsTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LogHelper" />
+        <item index="3" class="java.lang.String" itemvalue="Application.KafkaProducerDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -770,30 +821,38 @@
       <option name="presentableId" value="Default" />
       <updated>1535873351395</updated>
     </task>
+    <task id="LOCAL-00001" summary="flume interceptor">
+      <created>1538666213560</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538666213560</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-9" width="1296" height="696" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4409534" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44049734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07942431" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16251354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5406284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12055016" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44760212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5399645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39563107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35181236" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16901408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3534636" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -806,6 +865,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="flume interceptor" />
+    <option name="LAST_COMMIT_MESSAGE" value="flume interceptor" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="4" />
@@ -813,48 +876,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0.jar!/org/apache/spark/streaming/Seconds.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming_2.11/2.2.0/spark-streaming_2.11-2.2.0.jar!/org/apache/spark/streaming/Duration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="211" column="11" lean-forward="false" selection-start-line="211" selection-start-column="11" selection-end-line="211" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0.jar!/org/apache/spark/streaming/kafka010/LocationStrategy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.2.0/spark-streaming-kafka-0-10_2.11-2.2.0.jar!/org/apache/spark/streaming/kafka010/KafkaUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="103" column="17" lean-forward="false" selection-start-line="103" selection-start-column="5" selection-end-line="103" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spark-demo/src/main/java/com/hzy/WordCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="536" column="12" lean-forward="false" selection-start-line="536" selection-start-column="12" selection-end-line="536" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spark-demo/src/main/java/com/hzy/KafkaSparkDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="519">
@@ -1332,7 +1353,7 @@
         <state relative-caret-position="270">
           <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1345,23 +1366,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding>
-            <element signature="e#2466#2467#0" expanded="true" />
-            <element signature="e#2515#2516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/log/custom/LogAppender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1379,10 +1389,10 @@
         <state relative-caret-position="162">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
-            <element signature="e#709#710#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="false" />
+            <element signature="e#736#737#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#831#832#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1405,10 +1415,10 @@
         <state relative-caret-position="-1821">
           <caret line="43" column="43" lean-forward="false" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3942#3943#0" expanded="true" />
-            <element signature="e#3990#3991#0" expanded="true" />
-            <element signature="e#4281#4290#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3942#3943#0" expanded="false" />
+            <element signature="e#3990#3991#0" expanded="false" />
+            <element signature="e#4281#4290#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1425,6 +1435,277 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/java/com/hzy/guava/PreconditionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/base/Preconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="21" column="23" lean-forward="false" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1496027779165" expanded="false" signature="146:224" ph="..." />
+            <marker date="1496027779165" expanded="true" signature="304:311" ph="{}" />
+            <marker date="1496027779165" expanded="true" signature="370:464" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="554:676" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="812:952" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1008:1099" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1186:1305" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1438:1575" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1627:1770" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1853:2024" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="2153:2342" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="2404:2415" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="2462:2468" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="2554:2741" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="2819:3189" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="3252:3263" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="3311:3317" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="3404:3593" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="3672:4049" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4125:4283" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4360:4667" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4737:5688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/annotations/Beta.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1496027779165" expanded="false" signature="153:346" ph="..." />
+            <marker date="1496027779165" expanded="true" signature="348:529" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/BiMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1496027779165" expanded="false" signature="149:271" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/MapConstraints.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="561" column="17" lean-forward="false" selection-start-line="561" selection-start-column="17" selection-end-line="561" selection-end-column="17" />
+          <folding>
+            <marker date="1496027779165" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1496027779165" expanded="false" signature="149:584" ph="..." />
+            <marker date="1496027779165" expanded="true" signature="586:606" ph="@{...}" />
+            <marker date="1496027779165" expanded="true" signature="672:679" ph="{}" />
+            <marker date="1496027779165" expanded="false" signature="738:749" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="801:807" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="922:996" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1131:1215" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1362:1450" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1594:1681" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="1843:1936" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="2072:2486" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="2211:2479" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="2257:2276" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="2289:2303" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="2344:2469" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="2651:3307" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="2802:3300" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="2860:2879" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="2892:2906" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="2952:3290" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="3055:3129" ph="checkElement(value) → {" />
+            <marker date="1496027779165" expanded="false" signature="3251:3274" ph="}" />
+            <marker date="1496027779165" expanded="true" signature="3474:3561" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="3713:3882" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4021:4104" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4225:4314" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4453:4702" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="4832:5123" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="5272:5963" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="5393:5445" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="5485:5500" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="5533:5543" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="5594:5609" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="5648:5658" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="5739:5814" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="5871:5957" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="6097:6693" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="6206:6258" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="6292:6307" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="6334:6344" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="6387:6402" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="6430:6440" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="6485:6500" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="6533:6543" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="6618:6687" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="6829:7337" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="6940:6992" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="7027:7042" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="7070:7080" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="7126:7141" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="7175:7185" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="7261:7331" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="7433:9422" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="7684:7773" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="7832:7847" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="7867:7877" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="7939:8457" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="8098:8446" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="8154:8303" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="8375:8398" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="8414:8432" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="8492:8507" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="8537:8547" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="8590:8605" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="8640:8650" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="8693:8708" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="8758:8768" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="8821:8836" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="8871:8881" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="8937:8952" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="8987:8997" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="9028:9043" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="9074:9084" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="9125:9140" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="9188:9198" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="9249:9264" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="9297:9307" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="9358:9373" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="9406:9416" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="9543:9909" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="9647:9698" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="9754:9769" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="9806:9816" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="9847:9862" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="9893:9903" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="10003:11683" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="10223:10312" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="10366:10381" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="10401:10411" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="10461:10921" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="10596:10910" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="10640:10779" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="10839:10862" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="10878:10896" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="10956:10971" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11001:11011" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="11054:11069" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11104:11114" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="11157:11172" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11222:11232" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="11285:11300" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11335:11345" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="11386:11401" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11449:11459" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="11510:11525" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11558:11568" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="11619:11634" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="11667:11677" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="11783:13474" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="11995:12082" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="12138:12153" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="12174:12184" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="12236:12748" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="12376:12737" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="12418:12441" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="12467:12485" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="12530:12553" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="12608:12626" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="12664:12687" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="12705:12723" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="12783:12798" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="12828:12838" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="12881:12896" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="12931:12941" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="12984:12999" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="13031:13041" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="13094:13109" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="13144:13154" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="13195:13210" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="13240:13250" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="13301:13316" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="13349:13359" ph=" }" />
+            <marker date="1496027779165" expanded="false" signature="13410:13425" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="13458:13468" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="13584:17813" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="13894:14066" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="14111:14126" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="14147:14157" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="14204:16204" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="14460:16145" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="14638:14665" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="14686:14708" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="14777:15145" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="15204:15551" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="15615:15985" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="16045:16072" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="16105:16127" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="16255:16518" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="16566:16890" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="16659:16729" ph="checkElement(value) → {" />
+            <marker date="1496027779165" expanded="false" signature="16859:16878" ph="}" />
+            <marker date="1496027779165" expanded="true" signature="16935:17051" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="17120:17235" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="17312:17603" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="17685:17807" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="17895:18261" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="18041:18137" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="18188:18203" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="18245:18255" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="18378:19287" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="18545:18633" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="18675:18690" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="18721:18731" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="18775:18898" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="18937:19192" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="19224:19239" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="19271:19281" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="19355:20481" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="19606:19773" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="19813:19828" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="19849:19859" ph=" }" />
+            <marker date="1496027779165" expanded="true" signature="19904:20164" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="20203:20319" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="20383:20475" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="20569:20888" ph="{...}" />
+            <marker date="1496027779165" expanded="true" signature="20629:20640" ph="{}" />
+            <marker date="1496027779165" expanded="true" signature="20702:20805" ph="{...}" />
+            <marker date="1496027779165" expanded="false" signature="20839:20854" ph=" { " />
+            <marker date="1496027779165" expanded="false" signature="20872:20882" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo/src/main/java/com/hzy/KafkaConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="32" selection-start-column="18" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools-demo/src/main/resources/kafka_to_hdfs.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
