@@ -56,6 +56,9 @@ public class TaildirSourceConfigurationConstants {
   public static final String CACHE_PATTERN_MATCHING = "cachePatternMatching";
   public static final boolean DEFAULT_CACHE_PATTERN_MATCHING = true;
 
+  public static final String CACHE_PATTERN_MATCHING_DURATION = "cachePatternMatchingDuration";
+  public static final int DEFAULT_CACHE_PATTERN_MATCHING_DURATION = 60000;  //单位:毫秒
+
   /** Header in which to put absolute path filename. */
   public static final String FILENAME_HEADER_KEY = "fileHeaderKey";
   public static final String DEFAULT_FILENAME_HEADER_KEY = "file";

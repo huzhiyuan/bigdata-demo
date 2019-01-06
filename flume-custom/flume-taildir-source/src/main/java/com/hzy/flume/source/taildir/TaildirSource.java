@@ -79,6 +79,7 @@ public class TaildirSource extends AbstractSource implements
   private int writePosInitDelay = 5000;
   private int writePosInterval;
   private boolean cachePatternMatching;
+  private int cachePatternMatchingDuration;
 
   private List<Long> existingInodes = new CopyOnWriteArrayList<Long>();
   private List<Long> idleInodes = new CopyOnWriteArrayList<Long>();
@@ -98,6 +99,7 @@ public class TaildirSource extends AbstractSource implements
           .skipToEnd(skipToEnd)
           .addByteOffset(byteOffsetHeader)
           .cachePatternMatching(cachePatternMatching)
+              .cachePatternMatchingDuration(cachePatternMatchingDuration)
           .annotateFileName(fileHeader)
           .fileNameHeader(fileHeaderKey)
           .build();
@@ -175,6 +177,9 @@ public class TaildirSource extends AbstractSource implements
     writePosInterval = context.getInteger(WRITE_POS_INTERVAL, DEFAULT_WRITE_POS_INTERVAL);
     cachePatternMatching = context.getBoolean(CACHE_PATTERN_MATCHING,
         DEFAULT_CACHE_PATTERN_MATCHING);
+
+    cachePatternMatchingDuration = context.getInteger(CACHE_PATTERN_MATCHING_DURATION,
+            DEFAULT_CACHE_PATTERN_MATCHING_DURATION);
 
     backoffSleepIncrement = context.getLong(PollableSourceConstants.BACKOFF_SLEEP_INCREMENT,
         PollableSourceConstants.DEFAULT_BACKOFF_SLEEP_INCREMENT);

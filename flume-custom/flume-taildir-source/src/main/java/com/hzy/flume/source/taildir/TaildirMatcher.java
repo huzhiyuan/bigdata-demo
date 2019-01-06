@@ -69,6 +69,8 @@ public class TaildirMatcher {
 
   // flag from configuration to switch off caching completely
   private final boolean cachePatternMatching;
+
+  private final int cachePatternMatchingDuration;
   // id from configuration
   private final String fileGroup;
   // plain string of the desired files from configuration
@@ -110,11 +112,12 @@ public class TaildirMatcher {
    *                             for stamping mtime (eg: remote filesystems)
    * @see TaildirSourceConfigurationConstants
    */
-  TaildirMatcher(String fileGroup, String filePattern, boolean cachePatternMatching) {
+  TaildirMatcher(String fileGroup, String filePattern, boolean cachePatternMatching,int cachePatternMatchingDuration) {
     // store whatever came from configuration
     this.fileGroup = fileGroup;
     this.filePattern = filePattern;
     this.cachePatternMatching = cachePatternMatching;
+    this.cachePatternMatchingDuration = cachePatternMatchingDuration;
 
     // calculate final members
     File f = new File(filePattern);
@@ -182,16 +185,17 @@ public class TaildirMatcher {
     long now = TimeUnit.SECONDS.toMillis(
         TimeUnit.MILLISECONDS.toSeconds(System.currentTimeMillis()));
     long currentParentDirMTime = parentDir.lastModified();
-    List<File> result;
 
-    // calculate matched files if
-    // - we don't want to use cache (recalculate every time) OR
-    // - directory was clearly updated after the last check OR
+    // 在如下情况下重新计算匹配的文件
+    // - 配置不缓存文件
+    // - 在上次检查之后目录完全更新了
     // - last mtime change wasn't already checked for sure
     //   (system clock hasn't passed that second yet)
+    // hzy: 定制为定时更新-> 检查时间距离现在已经超过配置的值: cachePatternMatchingDuration
     if (!cachePatternMatching ||
         lastSeenParentDirMTime < currentParentDirMTime ||
-        !(currentParentDirMTime < lastCheckedTime)) {
+        !(currentParentDirMTime < lastCheckedTime)||
+            (now - lastCheckedTime>cachePatternMatchingDuration)) {
       lastMatchedFiles = sortByLastModifiedTime(getMatchingFilesNoCache2());
       lastSeenParentDirMTime = currentParentDirMTime;
       lastCheckedTime = now;

@@ -56,6 +56,7 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
   private long updateTime;
   private boolean addByteOffset;
   private boolean cachePatternMatching;
+  private int cachePatternMatchingDuration;
   private boolean committed = true;
   private final boolean annotateFileName;
   private final String fileNameHeader;
@@ -65,7 +66,7 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
    */
   private ReliableTaildirEventReader(Map<String, String> filePaths,
       Table<String, String, String> headerTable, String positionFilePath,
-      boolean skipToEnd, boolean addByteOffset, boolean cachePatternMatching,
+      boolean skipToEnd, boolean addByteOffset, boolean cachePatternMatching,int cachePatternMatchingDuration,
       boolean annotateFileName, String fileNameHeader) throws IOException {
     // Sanity checks
     Preconditions.checkNotNull(filePaths);
@@ -78,7 +79,7 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
 
     List<TaildirMatcher> taildirCache = Lists.newArrayList();
     for (Entry<String, String> e : filePaths.entrySet()) {
-      taildirCache.add(new TaildirMatcher(e.getKey(), e.getValue(), cachePatternMatching));
+      taildirCache.add(new TaildirMatcher(e.getKey(), e.getValue(), cachePatternMatching,cachePatternMatchingDuration));
     }
     logger.info("taildirCache: " + taildirCache.toString());
     logger.info("headerTable: " + headerTable.toString());
@@ -87,6 +88,7 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
     this.headerTable = headerTable;
     this.addByteOffset = addByteOffset;
     this.cachePatternMatching = cachePatternMatching;
+    this.cachePatternMatchingDuration = cachePatternMatchingDuration;
     this.annotateFileName = annotateFileName;
     this.fileNameHeader = fileNameHeader;
     updateTailFiles(skipToEnd);
@@ -297,6 +299,7 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
     private boolean skipToEnd;
     private boolean addByteOffset;
     private boolean cachePatternMatching;
+    private int cachePatternMatchingDuration;
     private Boolean annotateFileName =
             TaildirSourceConfigurationConstants.DEFAULT_FILE_HEADER;
     private String fileNameHeader =
@@ -332,6 +335,11 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
       return this;
     }
 
+    public Builder cachePatternMatchingDuration(int cachePatternMatchingDuration) {
+      this.cachePatternMatchingDuration = cachePatternMatchingDuration;
+      return this;
+    }
+
     public Builder annotateFileName(boolean annotateFileName) {
       this.annotateFileName = annotateFileName;
       return this;
@@ -344,7 +352,7 @@ public class ReliableTaildirEventReader implements ReliableEventReader {
 
     public ReliableTaildirEventReader build() throws IOException {
       return new ReliableTaildirEventReader(filePaths, headerTable, positionFilePath, skipToEnd,
-                                            addByteOffset, cachePatternMatching,
+                                            addByteOffset, cachePatternMatching,cachePatternMatchingDuration,
                                             annotateFileName, fileNameHeader);
     }
   }
