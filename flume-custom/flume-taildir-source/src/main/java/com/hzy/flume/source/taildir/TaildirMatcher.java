@@ -121,19 +121,38 @@ public class TaildirMatcher {
 
     // calculate final members
     File f = new File(filePattern);
-    this.parentDir = f.getParentFile();
-    String regex = f.getName();
+    this.parentDir = getAvailableParentDir(f);
+    String regex = f.getAbsolutePath();
     final PathMatcher matcher = FS.getPathMatcher("regex:" + regex);
     this.fileFilter = new DirectoryStream.Filter<Path>() {
       @Override
       public boolean accept(Path entry) throws IOException {
-        return matcher.matches(entry.getFileName()) && !Files.isDirectory(entry);
+        boolean pathMatch = matcher.matches(entry);
+        boolean isFile = !Files.isDirectory(entry);
+        return  pathMatch&&isFile;
       }
     };
 
     // sanity check
     Preconditions.checkState(parentDir.exists(),
         "Directory does not exist: " + parentDir.getAbsolutePath());
+  }
+
+  private static File getAvailableParentDir(final File f){
+    File temp = f;
+    File availParentDir = null;
+    while(availParentDir==null){
+      File parent = temp.getParentFile();
+      Preconditions.checkState(parent!=null,
+              "file has no available parentDir " + f.getAbsolutePath());
+
+      if(parent.exists()){
+        availParentDir = parent;
+      }else{
+        temp = parent;
+      }
+    }
+    return availParentDir;
   }
 
   /**
